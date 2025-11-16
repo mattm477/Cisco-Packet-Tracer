@@ -14,3 +14,9 @@ Here are a number of things that can be done using this software:
 6) Build and test smart home components
 7) Watch data flow across and view detailed packet information
 8) Build a simple or complex topology from scratch
+
+<img src="assets/demo1.png" width="550">
+
+Here I created a simple, small home network with a home router, wireless laptop, wired PC, and front door camera!
+The two tabs open allowed me to customize the configurations of each of the devices.
+I customized the laptop by changing it from a wired connection to a wireless connection by installing the WPC300N module onto the laptop.
