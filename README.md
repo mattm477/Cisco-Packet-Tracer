@@ -49,3 +49,7 @@ I manually configured their connectivity, both wired and wireless using a copper
 At this point, the tutorial is finished, but I thought I'd simulate a real network topology.  
 Another project of mine, Count Me In, aims to build a sensor-based room occupancy tracker for Rutgers study areas.
 I figured I'd simulate the network topology before my team and I go into the implementation phase.
+
+11/19/25-11/21/25
+
+<img src="assets/topology1.png" width="550">
